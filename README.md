@@ -1,3 +1,4 @@
+![Billing Software Flow Chart](https://github.com/tasbihaanwaradil/BillingSoftwareProject/assets/139496485/f795d419-3009-4e36-9a27-8f156142f575)
 # BillingSoftwareProject
 This project is purely based on python The billing software is a program that calculates the total amount of a customer's purchase. 
 It takes in the customer's name and phone number and generates a bill number, as well as the items they have purchased, along with their prices and quantities. 
